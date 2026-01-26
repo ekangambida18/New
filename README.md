@@ -85,6 +85,12 @@ Les résultats suggèrent l’absence d’association statistiquement significat
   * `scipy`
   * `matplotlib` / `seaborn`
 
+  ## Structure du projet
+- `Evaluation.ipynb` : notebook contenant l’analyse complète, le code,
+  les visualisations et l’interprétation des résultats
+- `cardiometabo_data` : dossier contenant les données utilisées pour l’analyse
+
+
 ---
 
 ## 👤 Auteur
