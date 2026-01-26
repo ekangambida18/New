@@ -4,7 +4,7 @@
 
 Ce projet présente une **analyse statistique exploratoire** réalisée sur une **base de données simulée**, dans un objectif pédagogique et académique. Il vise à illustrer l’application de méthodes classiques de **biostatistique** à des variables couramment utilisées en épidémiologie et en santé publique.
 
-Le projet s’inscrit dans une démarche de **portfolio GitHub**, mettant en évidence la capacité à structurer une analyse, choisir des tests statistiques appropriés et interpréter les résultats de manière rigoureuse.
+Le projet s’inscrit dans une démarche de **portfolio GitHub**, mettant en évidence la capacité à structurer une analyse,poser des hypothèses,choisir des tests statistiques appropriés et interpréter les résultats de manière rigoureuse.
 
 ---
 
