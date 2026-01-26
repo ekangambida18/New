@@ -1,6 +1,6 @@
 # Analyse Statistique de Facteurs de Risque en Santé
 
-## 📌 Contexte du projet
+##  I-Contexte du projet
 
 Ce projet présente une **analyse statistique exploratoire** réalisée sur une **base de données simulée**, dans un objectif pédagogique et académique. Il vise à illustrer l’application de méthodes classiques de **biostatistique** à des variables couramment utilisées en épidémiologie et en santé publique.
 
@@ -8,7 +8,7 @@ Le projet s’inscrit dans une démarche de **portfolio GitHub**, mettant en év
 
 ---
 
-## 🗂️ Description des données
+##  II-Description des données
 
 * **Type de données** : données simulées
 * **Taille de l’échantillon** : 200 individus
@@ -25,19 +25,19 @@ Le projet s’inscrit dans une démarche de **portfolio GitHub**, mettant en év
 | `activite_physique`  | Qualitative                | Niveau d’activité physique      |
 | `tension_arterielle` | Quantitative / Catégorisée              | Valeur de la tension artérielle |
 
-⚠️ Les données ne proviennent pas de patients réels et ne permettent aucune inférence clinique.
+Les données ne proviennent pas de patients réels et ne permettent aucune inférence clinique.
 
 ---
 
-## 🧪 Méthodologie statistique
+## III-Méthodologie statistique
 
-### 🔹 Analyse descriptive
+###  1-Analyse descriptive
 
 * Statistiques descriptives (moyennes, médianes, dispersions)
 * Tableaux de fréquences pour les variables qualitatives
 * Visualisations exploratoires
 
-### 🔹 Analyses inférentielles
+###  2-Analyses inférentielles
 
 Les méthodes statistiques suivantes ont été appliquées selon la nature des variables et les conditions de validité :
 
@@ -51,7 +51,7 @@ Les conditions d’application des tests (normalité, homogénéité des varianc
 
 ---
 
-## Résultats Principaux
+## IV-Résultats Principaux
 
 * Les analyses descriptives ont permis de caractériser la population simulée.
 * Les tests de corrélation (Pearson et Spearman) n’ont pas mis en évidence de relation statistiquement significative entre les variables quantitatives étudiées.
@@ -60,13 +60,13 @@ Les conditions d’application des tests (normalité, homogénéité des varianc
 
 ---
 
-## Interprétation
+## V-Interprétation
 
 Les résultats suggèrent l’absence d’association statistiquement significative entre les variables étudiées dans cette base de données simulée. Cette absence de significativité ne permet pas de conclure à une absence de relation dans un contexte réel, mais reflète les caractéristiques et les limites inhérentes aux données simulées.
 
 ---
 
-## Limites
+## VI-Limites
 
 * Données entièrement simulées
 * Absence de lien causal
@@ -75,7 +75,7 @@ Les résultats suggèrent l’absence d’association statistiquement significat
 
 ---
 
-## 🛠️ Outils utilisés
+## VII- Outils utilisés
 
 * **Python**
 * Bibliothèques :
